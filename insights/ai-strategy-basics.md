@@ -6,6 +6,8 @@ readTime: "7 min read"
 category: "strategy"
 author: "Sundar Rajan"
 featured: true
+image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop"
+imageAlt: "AI strategy planning with digital interfaces and data visualization"
 ---
 
 # AI Strategy Basics: Where Every Founder Should Start

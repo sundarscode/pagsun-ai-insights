@@ -6,6 +6,8 @@ readTime: "6 min read"
 category: "case-study"
 author: "Sundar Rajan"
 featured: true
+image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=600&fit=crop"
+imageAlt: "Customer service dashboard showing AI automation and analytics"
 ---
 
 # How Shopify's AI Reduced Customer Service Costs by 40%

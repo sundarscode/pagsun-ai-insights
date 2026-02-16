@@ -6,6 +6,8 @@ readTime: "8 min read"
 category: "implementation"
 author: "Sundar Rajan"
 featured: false
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=600&fit=crop"
+imageAlt: "Diverse team collaborating on AI development and strategy"
 ---
 
 # Building Your First AI Team: A Founder's Guide
