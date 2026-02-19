@@ -143,16 +143,16 @@ No model answers these questions. No roadmap resolves them on your behalf.
 
 ## Your Map for This Series
 
-```
-Part 1  →  The six-layer map                          ← you are here
-Part 2  →  Layer 1: The Foundation
-Part 3  →  Layer 2: The Models
-Part 4  →  Layer 3: The Techniques
-Part 5  →  Layer 4: The Application Patterns
-Part 6  →  Layer 5: The Operations
-Part 7  →  Layer 6: The Business & Leadership Language
-Part 8  →  How It All Connects — and What to Build Next
-```
+|Part|Layer|Topic|
+|---|---|---|
+|Part 1|-|The six-layer map|
+|Part 2|Layer 1|The Foundation|
+|Part 3|Layer 2|The Models|
+|Part 4|Layer 3|The Techniques|
+|Part 5|Layer 4|The Application Patterns|
+|Part 6|Layer 5|The Operations|
+|Part 7|Layer 6|The Business & Leadership Language|
+|Part 8|-|How It All Connects — and What to Build Next|
 
 Read in order for the full picture. Or jump straight to the layer where a conversation is already happening in your firm. Either way, every part ends with a practical summary and the exact questions you should be asking as a strategic leader.
 

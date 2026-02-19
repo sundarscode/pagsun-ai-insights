@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "insights/youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8.md",
+                "file": "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8"
+              "title": "the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "insights/youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8.md",
+                "file": "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8"
+              "title": "Backlinks for the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "insights/youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8.md",
+                "file": "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8"
+              "title": "Outgoing links from the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "insights/youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8.md",
+                "file": "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8"
+              "title": "Outline of the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "8952bebf753a6e60",
   "lastOpenFiles": [
+    "insights/youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8.md",
     "insights/youre-mixing-up-electricity-and-coffee-machines-heres-the-hierarchy-ai-decoded-2-of-8.md",
     "insights/your-cto-cant-answer-these-9-questions-only-you-can-ai-decoded-7-of-8.md",
     "insights/your-200k-ai-knows-everything-except-your-business-ai-decoded-4-of-8.md",
@@ -192,7 +193,6 @@
     "insights/this-one-decision-shapes-everything-else-and-most-get-it-wrong-ai-decoded-5-of-8.md",
     "insights/this-isnt-a-tech-decision-its-a-hiring-decision-ai-decoded-3-of-8.md",
     "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
-    "insights/youre-not-in-that-meeting-anymore-heres-your-next-move-ai-decoded-8-of-8.md",
     "insights/ai-decoded-01-overview.md",
     "insights/ai-decoded-08-mental-map.md",
     "insights/ai-decoded-07-business-leadership.md",
