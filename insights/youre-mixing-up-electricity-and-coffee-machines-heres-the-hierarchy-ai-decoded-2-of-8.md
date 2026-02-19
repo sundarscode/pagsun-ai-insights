@@ -41,15 +41,7 @@ You don't need to know how they work. You need to know what they are — so that
 
 Here's the hierarchy before we go term by term:
 
-```
-Artificial Intelligence (AI)            ← the whole system
-└── Machine Learning (ML)               ← how it learns
-    └── Deep Learning (DL)              ← how it understands meaning
-        ├── Neural Network (NN)         ← the architecture underneath
-        ├── Natural Language Processing ← the language capability
-        ├── Computer Vision             ← the visual capability
-        └── Transformer                 ← the breakthrough that made it good
-```
+ ![AI Hierarchy Diagram](/insights/ai-hierarchy.svg)
 
 Each term lives inside the one above it. That's exactly why people mix them up. Now let's pull them apart, one at a time.
 
