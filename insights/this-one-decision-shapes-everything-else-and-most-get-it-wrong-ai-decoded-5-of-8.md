@@ -174,21 +174,12 @@ Think of the difference between a researcher who can only work with data handed 
 
 The key decision in this layer is not which agent framework to use. It's knowing where on this spectrum each workflow in your firm belongs.
 
-```
-Mode          Human involvement              Best for
-────────────────────────────────────────────────────────────────────────────
-Copilot       Human leads, AI assists        Judgment work, senior decisions,
-                                             client-facing output
-
-Agent         AI executes, human reviews     Defined, repeatable, research
-              the output                     and synthesis tasks
-
-Agentic       AI owns end-to-end,            Fully standardised workflows
-              human sets goal + reviews      with clear inputs and outputs
-
-Multi-Agent   Team of AIs, orchestrated,     Complex workflows needing
-              human at the edges             parallel, specialised work
-```
+|Mode|Human involvement|Best for|
+|---|---|---|
+|Copilot|Human leads, AI assists|Judgment work, senior decisions, client-facing output|
+|Agent|AI executes, human reviews the output|Defined, repeatable, research and synthesis tasks|
+|Agentic|AI owns end-to-end, human sets goal and reviews|Fully standardised workflows with clear inputs and outputs|
+|Multi-Agent|Team of AIs orchestrated, human at the edges|Complex workflows needing parallel, specialised work|
 
 > **What this layer means for you as a strategic leader:** Every workflow in your firm can be mapped onto this spectrum. The question isn't "should we use AI?" — it's "for each workflow, where does human judgment need to stay, and what can move to agent mode?" That mapping exercise, done deliberately across your firm's key workflows, is your AI strategy. Everything else in this series is what makes it possible to execute.
 

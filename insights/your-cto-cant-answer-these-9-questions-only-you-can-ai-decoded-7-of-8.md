@@ -138,36 +138,18 @@ The question to answer — and the most important question in this entire series
 
 These are the nine decisions that belong on your agenda — not your technical team's.
 
-```
-Decision area          The question only you can answer
-────────────────────────────────────────────────────────────────────────────
-AI Moat                What are we building through AI that gets harder
-                       to compete with over time?
+| Decision area         | The question only you can answer                                                                 |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| AI Moat               | What are we building through AI that gets harder to compete with over time?​                     |
+| AI Governance         | Who has authority over AI decisions — and who is accountable when something goes wrong?          |
+| AI Ethics             | What values govern how our AI behaves — and have we stated them, or are we assuming them?        |
+| AI Safety/Alignment   | Are our systems optimising for what we can measure or for what we actually care about?           |
+| Frontier Firm         | Are we using AI to do what we do faster — or to do things we couldn't do before?                 |
+| Superworker           | Who is already a superworker, and how do we build that deliberately across the firm?             |
+| Synthetic Colleague   | Does AI have a defined role in our structure — or is it a tool people use when they remember to? |
+| Task Atomisation      | Have we made AI decisions at the task level — or at the level of whole workflows?                |
+| Strategic Reservation | What will always stay human — and have we said it out loud?                                      |
 
-AI Governance          Who has authority over AI decisions — and who is
-                       accountable when something goes wrong?
-
-AI Ethics              What values govern how our AI behaves — and have
-                       we stated them, or are we assuming them?
-
-AI Safety/Alignment    Are our systems optimising for what we can measure
-                       or for what we actually care about?
-
-Frontier Firm          Are we using AI to do what we do faster — or to
-                       do things we couldn't do before?
-
-Superworker            Who is already a superworker, and how do we build
-                       that deliberately across the firm?
-
-Synthetic Colleague    Does AI have a defined role in our structure —
-                       or is it a tool people use when they remember to?
-
-Task Atomisation       Have we made AI decisions at the task level —
-                       or at the level of whole workflows?
-
-Strategic Reservation  What will always stay human — and have we
-                       said it out loud?
-```
 
 > **What this layer means for you as a strategic leader:** These nine questions have no model that answers them, no vendor that resolves them, and no technical team that can make these calls for you. Every firm using AI will eventually face all nine. The ones that face them early — deliberately, before something forces the conversation — are the ones that build something coherent. The ones that face them after an incident, a client complaint, or an investor challenge are the ones that scramble. You have read six layers. You understand the vocabulary, the decisions, and the risks. This layer is where you decide what to do with all of it.
 

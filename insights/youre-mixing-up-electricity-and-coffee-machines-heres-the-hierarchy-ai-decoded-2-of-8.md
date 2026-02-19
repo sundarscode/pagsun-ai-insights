@@ -136,30 +136,15 @@ Every major AI tool you use today — ChatGPT, Claude, Gemini — is built on tr
 
 ## The Foundation at a Glance
 
-```
-Term               What it is                        What it means for you
-─────────────────────────────────────────────────────────────────────────────
-AI                 Systems that perform               The umbrella. Everything
-                   human-like thinking                else lives inside it.
-
-Machine Learning   Learning from data, not rules      Why AI adapts instead of
-                                                      just following a script.
-
-Deep Learning      Layered pattern recognition        Why AI understands meaning,
-                                                      not just keywords.
-
-Neural Network     The brain-like architecture        The structure running
-                                                      underneath. You don't build this.
-
-NLP                The language capability            Why AI can read and write
-                                                      with human-level fluency.
-
-Computer Vision    The visual capability              Why AI can work with charts,
-                                                      decks, and images.
-
-Transformer        The 2017 architecture              The reason modern AI is as
-                   breakthrough                       capable as it actually is.
-```
+| **Term**         | **What it is**                           | **What it means for you**                                        |
+| ---------------- | ---------------------------------------- | ---------------------------------------------------------------- |
+| AI               | Systems that perform human-like thinking | The umbrella; everything else lives inside it.                   |
+| Machine Learning | Learning from data, not rules            | Why AI adapts instead of just following a script.                |
+| Deep Learning    | Layered pattern recognition              | Why AI understands meaning, not just keywords.                   |
+| Neural Network   | The brain-like architecture              | The structure running underneath; you don't build this yourself. |
+| NLP              | The language capability                  | Why AI can read and write with human-level fluency.              |
+| Computer Vision  | The visual capability                    | Why AI can work with charts, decks, and images.                  |
+| Transformer      | The 2017 architecture breakthrough       | The reason modern AI is as capable as it actually is.            |
 
 > **What this layer means for you as a strategic leader:** None of these are things you choose, configure, or buy. They are the foundation underneath every AI product you will ever evaluate. Your first real decision — which AI systems to actually use — begins in the next layer. But knowing this one means that the next time a vendor says "powered by deep learning" or "built on transformer architecture," you're not just nodding at a label. You know what it means. And you know what to ask next.
 

@@ -160,21 +160,19 @@ Think of the professional and ethical boundaries your analysts operate within. T
 
 ## The Techniques Toolkit at a Glance
 
-```
-Technique          What it does                              When you need it
-────────────────────────────────────────────────────────────────────────────────
-Prompt Engineering  Better instructions → better outputs     Always. From day one.
-Context Window      How much the AI reads at once            When working with long documents
-Token               The billing and capacity unit            When estimating cost at scale
-RAG                 Connects AI to your firm's knowledge     When AI needs to know your business
-Vector Database     Semantic search that powers RAG          When building any RAG system
-Embeddings          Meaning encoded as numbers               Underneath RAG — your team's concern
-Fine-Tuning         Domain-specific retraining               After RAG; only with enough data
-Synthetic Data      Realistic fake training data             When real data is sensitive or scarce
-Hallucination       AI confidently getting things wrong      A risk to manage — always
-Grounding           Every output tied to a cited source      Any client-facing deployment
-Guardrails          Hard limits the AI cannot cross          Any professional or regulated context
-```
+|Technique|What it does|When you need it|
+|---|---|---|
+|Prompt Engineering|Better instructions → better outputs|Always; from day one|
+|Context Window|How much the AI reads at once|When working with long documents|
+|Token|The billing and capacity unit|When estimating cost at scale|
+|RAG|Connects AI to your firm's knowledge|When AI needs to know your business|
+|Vector Database|Semantic search that powers RAG|When building any RAG system|
+|Embeddings|Meaning encoded as numbers|Underneath RAG — your team's concern|
+|Fine-Tuning|Domain-specific retraining|After RAG; only with enough data|
+|Synthetic Data|Realistic fake training data|When real data is sensitive or scarce|
+|Hallucination|AI confidently getting things wrong|A risk to manage — always|
+|Grounding|Every output tied to a cited source|Any client-facing deployment|
+|Guardrails|Hard limits the AI cannot cross|Any professional or regulated context|
 
 > **What this layer means for you as a strategic leader:** You don't need to build any of these yourself. You need to know which ones your team is using — and ask about the ones that aren't in place. RAG and prompt engineering are where every serious AI deployment starts. Grounding and guardrails are not technical decisions. They are professional risk decisions. If your firm's AI deployment doesn't have them, that conversation belongs on your agenda — not your tech team's.
 

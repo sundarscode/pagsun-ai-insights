@@ -133,25 +133,15 @@ Think of the mythical perfect hire: someone who can do every job at expert level
 
 ## The Model Decision at a Glance
 
-```
-What your firm needs                              What to consider
-──────────────────────────────────────────────────────────────────────────────
-Get started fast, no infrastructure overhead   →  Proprietary API
-                                                  (OpenAI, Anthropic, Google)
+| What your firm needs                         | What to consider                                        |
+| -------------------------------------------- | ------------------------------------------------------- |
+| Get started fast, no infrastructure overhead | Proprietary API (OpenAI, Anthropic, Google Gemini)      |
+| Client data must stay on your servers        | Open source model (Meta Llama, Mistral)                 |
+| Work with text, images, and decks together   | Multimodal model (GPT‑4o, Claude 3, Gemini)             |
+| High-volume, routine, cost-sensitive tasks   | Small language model (SLM)                              |
+| Domain expertise specific to your firm       | Foundation model + techniques (fine-tuning, RAG, tools) |
+| AI that does everything, perfectly, forever  | AGI (does not exist yet)                                |
 
-Client data must stay on your servers         →  Open Source Model
-                                                  (Meta Llama, Mistral)
-
-Work with text, images, and decks together    →  Multimodal Model
-                                                  (GPT-4o, Claude 3)
-
-High-volume, routine, cost-sensitive tasks    →  Small Language Model (SLM)
-
-Domain expertise specific to your firm        →  Foundation Model + techniques
-                                                  (covered in Part 4)
-
-AI that does everything, perfectly, forever   →  AGI. Doesn't exist yet.
-```
 
 > **What this layer means for you as a strategic leader:** Don't get caught in the model arms race — a new "best model" launches every few months. The model you choose matters far less than what you build on top of it. Most firms should start with a proprietary API, get something working, and then optimise from there. The real strategic work begins in the next layer — where you make a general AI work specifically for your firm.
 

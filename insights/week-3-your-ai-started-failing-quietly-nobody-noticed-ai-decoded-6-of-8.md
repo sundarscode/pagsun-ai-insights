@@ -129,33 +129,17 @@ Think of a well-run operations centre. No one is watching every screen in detail
 
 These are the eight questions to ask your team before any AI system goes live. If you don't have clear answers to all of them, you're not ready to launch.
 
-```
-Question to ask your team                                    Term it surfaces
-──────────────────────────────────────────────────────────────────────────────
-"What does it cost per research brief at current            → Inference
- volume — and at 5x volume?"
+| Question to ask your team                                                                          | Term it surfaces           |
+| -------------------------------------------------------------------------------------------------- | -------------------------- |
+| “What does it cost per research brief at current volume — and at 5x volume?”                       | Inference                  |
+| “How fast does it respond — and is that fast enough for how we actually use it?”                   | Latency                    |
+| “How do we update the model without breaking our workflows or surprising the team?”                | MLOps / LLMOps             |
+| “How do we know it's performing well enough to trust in client-facing work — with actual numbers?” | Evals                      |
+| “How will we know if quality quietly starts slipping without anyone changing anything?”            | Data drift                 |
+| “Can someone manipulate it by hiding instructions in documents we ask it to process?”              | Prompt injection           |
+| “If a client asks why it reached a conclusion, can we explain the reasoning?”                      | Black box / explainability |
+| “When something goes wrong, how do we find out before a client does?”                              | AI observability latitude  |
 
-"How fast does it respond — and is that fast enough         → Latency
- for how we actually use it?"
-
-"How do we update the model without breaking our            → MLOps / LLMOps
- workflows or surprising the team?"
-
-"How do we know it's performing well enough to trust        → Evals
- in client-facing work — with actual numbers?"
-
-"How will we know if quality quietly starts slipping        → Data Drift
- without anyone changing anything?"
-
-"Can someone manipulate it by hiding instructions           → Prompt Injection
- in documents we ask it to process?"
-
-"If a client asks why it reached a conclusion,              → Black Box
- can we explain the reasoning?"
-
-"When something goes wrong, how do we find out              → AI Observability
- before a client does?"
-```
 
 > **What this layer means for you as a strategic leader:** You don't need to build this infrastructure yourself. You need to know it exists, know it's in place, and ask these eight questions before you sign off on any AI deployment. Launching without it isn't brave — it's a risk you're taking with client relationships and professional reputation. The firms that build the operational layer quietly are the ones that are still running the same AI systems two years later, having improved them continuously. The firms that skip it are the ones that replaced the whole thing after the first serious incident.
 

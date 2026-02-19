@@ -33,31 +33,14 @@ This final part does three things. It shows you how the six layers connect as on
 
 Each layer in this series was presented on its own. But they don't operate on their own. Each one enables the next. Here's how they connect:
 
-```
-Layer 1: Foundation
-The science that made modern AI possible.
-Explains why the capability exists at all.
-        ↓
-Layer 2: Models
-The specific AI systems your firm can access.
-Defines what you're working with.
-        ↓
-Layer 3: Techniques
-RAG, fine-tuning, guardrails, grounding.
-Makes a general AI specific to your firm.
-        ↓
-Layer 4: Application Patterns
-Agents, copilots, orchestration, pipelines.
-Places AI inside your actual workflows.
-        ↓
-Layer 5: Operations
-Inference, evals, observability, data drift.
-Keeps what you've built performing reliably.
-        ↓
-Layer 6: Leadership
-Moat, governance, reservation, frontier firm.
-Determines what it all builds toward.
-```
+| **Layer**                     | **What it is**                               | **What it does for your firm**              |
+| ----------------------------- | -------------------------------------------- | ------------------------------------------- |
+| Layer 1: Foundation           | The science that made modern AI possible     | Explains why the capability exists at all   |
+| Layer 2: Models               | The specific AI systems your firm can access | Defines what you're **working** with        |
+| Layer 3: Techniques           | RAG, fine-tuning, guardrails, grounding      | Makes a general AI specific to your firm    |
+| Layer 4: Application Patterns | Agents, copilots, orchestration, pipelines   | Places AI inside your actual workflows      |
+| Layer 5: Operations           | Inference, evals, observability, data drift  | Keeps what you've built performing reliably |
+| Layer 6: Leadership           | Moat, governance, reservation, frontier firm | Determines what it all builds toward        |
 
 Strip any layer out and the system breaks. A firm with great models and no techniques has a general AI that doesn't know its own business. A firm with great techniques and no operating design has AI that doesn't fit into its workflows. A firm with everything technically sound and no leadership layer has capability without direction — and no answer when an investor, a client, or a regulator asks the hard questions.
 
@@ -112,20 +95,5 @@ That is a different conversation. And it requires everything you now have — th
 That's the conversation this series was preparing you for.
 
 You're ready to have it.
-
----
-
-## The Complete Series
-
-```
-Part 1  →  The six-layer map — where to start
-Part 2  →  Layer 1: The Foundation
-Part 3  →  Layer 2: The Models
-Part 4  →  Layer 3: The Techniques
-Part 5  →  Layer 4: The Application Patterns
-Part 6  →  Layer 5: The Operations
-Part 7  →  Layer 6: The Business & Leadership Language
-Part 8  →  The Mental Map                            ← you are here
-```
 
 ---
