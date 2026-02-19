@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Your AI Started Failing Quietly. Nobody Noticed. | AI Decoded #6 of 8"
+title: "Week 3: Your AI Started Failing Quietly. Nobody Noticed"
 description: Eight questions that tell you whether your AI is actually performing — before a client meeting reveals it isn't.
 date: 2026-02-18
 readTime: 7 min read
@@ -10,6 +10,7 @@ image: 06-week-3-your-ai-started-failing-quietly-nobody-noticed.webp
 imageAlt: Live monitoring dashboard with data visualisations representing AI operational observability in production
 order: "6"
 group: "1"
+group_name: "AI Decoded #6 of 8"
 ---
 
 # Your AI Shipped. Now the Real Work Begins. The Operational Layer Most Founders Skip.

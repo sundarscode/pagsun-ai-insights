@@ -1,5 +1,5 @@
 ---
-title: "Your CTO Can't Answer These 9 Questions — Only You Can | AI Decoded #7 of 8"
+title: Your CTO Can't Answer These 9 Questions — Only You Can
 description: The moat, the governance, the decisions that must stay human. Five layers of AI belong to your team. This one — nine questions, zero technical answers — belongs to you alone.
 date: 2026-02-18
 readTime: 7 min read
@@ -10,6 +10,7 @@ image: 07-your-cto-cant-answer-these-9-questions-only-you-can.webp
 imageAlt: Executive in a strategy session representing the CEO-level AI decisions that no technical team can make for you
 order: "7"
 group: "1"
+group_name: "AI Decoded #7 of 8"
 ---
 
 # This Layer of AI Strategy Belongs to You — Not Your CTO

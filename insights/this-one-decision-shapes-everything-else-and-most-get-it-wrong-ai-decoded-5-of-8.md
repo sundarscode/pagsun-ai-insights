@@ -1,5 +1,5 @@
 ---
-title: "This One Decision Shapes Everything Else — And Most Get It Wrong | AI Decoded #5 of 8"
+title: This One Decision Shapes Everything Else — And Most Get It Wrong
 description: Copilot or agent? This single choice determines whether AI makes you faster or whether it changes what you can do entirely.
 date: 2026-02-18
 readTime: 7 min read
@@ -10,6 +10,7 @@ image: 05-this-one-decision-shapes-everything-else-and-most-get-it-wrong.webp
 imageAlt: Team collaborating around a workflow representing AI agents, copilots, and multi-agent operating patterns
 order: "5"
 group: "1"
+group_name: "AI Decoded #5 of 8"
 ---
 
 # Agent or Copilot? The Most Consequential AI Decision You'll Make — and How to Make It Right

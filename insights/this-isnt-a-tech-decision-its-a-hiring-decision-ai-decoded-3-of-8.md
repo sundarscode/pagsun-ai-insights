@@ -1,5 +1,5 @@
 ---
-title: "This Isn't a Tech Decision — It's a Hiring Decision | AI Decoded #3 of 8"
+title: This Isn't a Tech Decision — It's a Hiring Decision
 description: LLMs, foundation models, open source, proprietary — these are the engines your strategy runs on. Here's how to choose the right one without a technical background.
 date: 2026-02-18
 readTime: 6 min read
@@ -10,6 +10,7 @@ image: 03-this-isnt-a-tech-decision-its-a-hiring-decision.webp
 imageAlt: Precision circuit board representing the model layer — the AI engine your business strategy runs on
 order: "3"
 group: "1"
+group_name: "AI Decoded #3 of 8"
 ---
 
 # The AI Engine Room: Which Model to Use, When, and Why — Without the Technical Jargon

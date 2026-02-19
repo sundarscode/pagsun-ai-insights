@@ -1,5 +1,5 @@
 ---
-title: "The Meeting Where You Nodded Along Ends Here | AI Decoded #1 of 8"
+title: The Meeting Where You Nodded Along Ends Here
 description: The six-layer map that gives every AI term a place — and every founder a way back into the conversation they've been faking.
 date: 2026-02-18
 readTime: 5 min read
@@ -10,6 +10,7 @@ image: 01-The-Meeting-Where-You-Nodded-Along.webp
 imageAlt: Strategic overview map laid out on a table representing the six-layer framework for understanding AI
 order: "1"
 group: "1"
+group_name: "AI Decoded #1 of 8"
 ---
 
 # Stop Pretending You Understand AI. Here's the 6-Layer Map That Changes Everything.

@@ -1,5 +1,5 @@
 ---
-title: "You're Mixing Up Electricity and Coffee Machines — Here's the Hierarchy | AI Decoded #2 of 8"
+title: You're Mixing Up Electricity and Coffee Machines — Here's the Hierarchy
 description: AI, ML, Deep Learning, Neural Networks — everyone uses them interchangeably. They're not the same. Here's the hierarchy that makes the rest of AI finally make sense.
 date: 2026-02-18
 readTime: 6 min read
@@ -10,6 +10,7 @@ image: 02-youre-mixing-up-electricity-and-coffee-machines-heres-the-hierarchy.we
 imageAlt: Deep structural foundation of a building representing the foundational layer that all AI is built upon
 order: "2"
 group: "1"
+group_name: "AI Decoded #2 of 8"
 ---
 
 # AI, Machine Learning, Deep Learning: Every Term You're Confusing in Meetings, Finally Untangled

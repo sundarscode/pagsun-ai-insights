@@ -1,5 +1,5 @@
 ---
-title: "Your $200K AI Knows Everything — Except Your Business | AI Decoded #4 of 8"
+title: Your $200K AI Knows Everything — Except Your Business
 description: The difference between a generic AI and one that works like a specialist inside your firm is the techniques you apply. RAG, fine-tuning, guardrails — explained without the jargon.
 date: 2026-02-18
 readTime: 8 min read
@@ -10,6 +10,7 @@ image: 04-your-200k-ai-knows-everything-except-your-business.webp
 imageAlt: Precision instruments and tools representing the customisation techniques that transform generic AI into firm-specific intelligence
 order: "4"
 group: "1"
+group_name: "AI Decoded #4 of 8"
 ---
 
 # Your AI Is Brilliant — But Clueless About Your Business. These Techniques Fix That.

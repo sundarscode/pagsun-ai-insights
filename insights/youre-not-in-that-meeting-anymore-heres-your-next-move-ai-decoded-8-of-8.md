@@ -1,5 +1,5 @@
 ---
-title: "You're Not in That Meeting Anymore — Here's Your Next Move | AI Decoded #8 of 8"
+title: You're Not in That Meeting Anymore — Here's Your Next Move
 description: Six layers, one connected system. Here's how the foundation becomes the model becomes the technique becomes the product — and where your real AI strategy begins.
 date: 2026-02-18
 readTime: 4 min read
@@ -10,6 +10,7 @@ image: 08-youre-not-in-that-meeting-anymore-heres-your-next-move.webp
 imageAlt: Interconnected global network of light representing how the six layers of AI connect into one strategic system
 order: "8"
 group: "1"
+group_name: "AI Decoded #8 of 8"
 ---
 
 # Now You Have the Map. Here's How Every AI Layer Connects — and What to Build Next.
