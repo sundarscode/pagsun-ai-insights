@@ -4,7 +4,7 @@ description: Discover how a six-person NVOCC team used Pagsun to dismantle a "kn
 NDA: All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the founder involved.
 date: 2026-01-05
 readTime: 4 min read
-category: NVOCC / Freight Forwarder
+group_name: NVOCC / Freight Forwarder
 order: "1"
 group: "1"
 ---
