@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usecase/the-proposal-that-lost-on-clarity-not-price.md",
+                "file": "usecase/the-invoice-nobody-agreed-to.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the-proposal-that-lost-on-clarity-not-price"
+              "title": "the-invoice-nobody-agreed-to"
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "aaf7c0abd8e0b92b",
   "lastOpenFiles": [
-    "usecase/when-one-person-holds-your-entire-business-hostage.md",
     "usecase/the-proposal-that-lost-on-clarity-not-price.md",
+    "usecase/when-one-person-holds-your-entire-business-hostage.md",
+    "usecase/the-invoice-nobody-agreed-to.md",
     "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
     "README.md",
     "2026-02-18.md",

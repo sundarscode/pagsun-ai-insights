@@ -1,7 +1,6 @@
 ---
 title: The Proposal That Lost on Clarity, Not Price
 description: Stop losing deals to "generic" proposals. See how a CSP founder used an AI Employee to cut proposal prep time by 90% and increase win rates from 38% to 64% in just 90 days.
-NDA: All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the founder involved.
 date: 2026-01-12
 readTime: 3 min read
 group_name: Corporate Service Provider
@@ -20,6 +19,11 @@ Then one prospect gave her an honest answer.
 *"Your proposal listed services and fees. The other firm showed us exactly what would happen in the first 30 days, what we needed to do, what you would handle, and what it would cost at each stage. It felt like they understood our situation. Yours felt like a brochure."*
 
 *"I had been losing proposals for months and telling myself it was the market. It wasn't the market. It was the proposal."*
+
+
+---
+
+**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the business involved.
 
 ---
 

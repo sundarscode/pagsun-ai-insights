@@ -1,7 +1,6 @@
 ---
 title: When One Person Holds Your Entire Business Hostage
 description: Discover how a six-person NVOCC team used Pagsun to dismantle a "knowledge monopoly," 5x their team capability, and 3x their revenue-to-profit ratio without hiring a single person. Read the case study on moving from person-dependent to process-driven.
-NDA: All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the founder involved.
 date: 2026-01-05
 readTime: 4 min read
 group_name: NVOCC & Freight Forwarder
@@ -18,6 +17,11 @@ He analysed every customer enquiry. He evaluated every carrier offer. He decided
 The founder knew something was wrong.
 
 He just couldn't afford to fix it.
+
+
+---
+
+**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the business involved.
 
 ---
 ## Ownership Without Control
