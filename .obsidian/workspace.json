@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usecase/when-nobody-knows-where-the-cargo-is.md",
+                "file": "usecase/the-penalty-nobody-saw-coming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "when-nobody-knows-where-the-cargo-is"
+              "title": "the-penalty-nobody-saw-coming"
             }
           }
         ],
@@ -200,11 +200,12 @@
   },
   "active": "aaf7c0abd8e0b92b",
   "lastOpenFiles": [
-    "usecase/the-invoice-nobody-agreed-to.md",
+    "usecase/the-proposal-that-lost-on-clarity-not-price.md",
+    "usecase/the-penalty-nobody-saw-coming.md",
     "usecase/when-nobody-knows-where-the-cargo-is.md",
+    "usecase/the-invoice-nobody-agreed-to.md",
     "usecase/when-one-person-holds-your-entire-business-hostage.md",
     "usecase/the-lead-that-left-without-saying-goodbye.md",
-    "usecase/the-proposal-that-lost-on-clarity-not-price.md",
     "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
     "README.md",
     "2026-02-18.md",
@@ -227,7 +228,6 @@
     "insights/ai-decoded-02-foundation.md",
     "insights/ai-decoded-founders-glossary.md",
     "layer1-foundation-diagram.md",
-    "insights/shopify-ai-success.md",
     "layer1-foundation-diagram.html"
   ]
 }
