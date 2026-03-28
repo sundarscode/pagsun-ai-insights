@@ -91,7 +91,7 @@ By removing the "thinking time" required to draft follow-ups, the dashboard ensu
 
 ---
 
-## The Moment That Summed It Up
+## From Lead to Consultation in 40 Seconds
 
 Eight weeks after deployment, a LinkedIn message arrived on a Saturday morning from a founder based in India looking to set up a Singapore holding company, clear intent, ready to move.
 
