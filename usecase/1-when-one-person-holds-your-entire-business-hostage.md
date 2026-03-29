@@ -162,7 +162,7 @@ The solution is **building the system that makes them replaceable** and then let
 
 ---
 
-## The Scaling Multiplier
+## AI Employee Performance
 
 By moving the "brain" of the operation from a single employee to an **AI-enhanced system**, the founder transformed the business's economic DNA:
 

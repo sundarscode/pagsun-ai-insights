@@ -105,9 +105,9 @@ The Lead Follow-up system and the Proposal Preparation system worked together ev
 
 ---
 
-## The Moment That Summed It Up
+## Six weeks after implementation
 
-Six weeks after deployment, a prospect who had received a proposal from the Founder  and two from competitors replied with something she had never received before.
+A prospect who had received a proposal from the Founder  and two from competitors replied with something she had never received before.
 
 *"Your proposal was the only one that actually described our situation. We knew exactly what we were getting and what it would cost. We didn't need to ask a single follow-up question. Easy decision."*
 
