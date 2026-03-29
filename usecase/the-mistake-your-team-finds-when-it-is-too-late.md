@@ -1,5 +1,5 @@
 ---
-title: The Mistake Nobody Finds Until It Is Too Late
+title: The Mistake Your Team Finds When It's Too Late
 description: Reduce documentation time by 65% and eliminate costly bank rejections. This case study reveals how an NVOCC used AI to bridge the gap between Shipping Instructions and Draft B/Ls, ensuring 100% accuracy before the original is issued.
 date: 2026-02-02
 readTime: 4 min read

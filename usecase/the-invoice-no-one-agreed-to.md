@@ -1,5 +1,5 @@
 ---
-title: The Invoice Nobody Agreed To
+title: The Invoice No One Agreed To
 description: The NVOCC was right, but the B/L was still stuck. Explore a case study on solving the structural gap in freight invoicing where confirmed rates lead to automated, dispute-free billing and faster cargo flow.
 date: 2026-01-19
 readTime: 4 min read

@@ -1,5 +1,5 @@
 ---
-title: When Nobody Knows Where the Cargo Is
+title: When Your Team Doesn't Know Where the Cargo Is
 description: "See how an AI employee transformed operations: zero reactive client calls, a 40% reduction in coordination time, and 100% ETA accuracy within 60 days. Learn how to shift your team from firefighting to proactive confidence."
 date: 2026-01-26
 readTime: 4 min read
