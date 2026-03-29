@@ -4,7 +4,7 @@ description: The NVOCC was right, but the B/L was still stuck. Explore a case st
 date: 2026-01-19
 readTime: 4 min read
 group_name: NVOCC & Freight Forwarder
-order: "5"
+order: "10"
 group: "1"
 ---
 
@@ -32,7 +32,7 @@ And the Original B/L sitting in office, ready to release, held hostage by a char
 
 ---
 
-**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the business involved.
+**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real.
 
 ---
 

@@ -4,7 +4,7 @@ description: Discover why "good service" isn't enough to keep your best shipping
 date: 2026-02-04
 readTime: 4 min read
 group_name: NVOCC & Freight Forwarder
-order: "8"
+order: "7"
 group: "1"
 ---
 
@@ -28,7 +28,7 @@ It had lost him to **a faster reply.**
 
 ---
 
-**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the business involved.
+**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real.
 
 ---
 

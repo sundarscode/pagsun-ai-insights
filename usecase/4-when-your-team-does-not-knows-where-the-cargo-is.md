@@ -4,7 +4,7 @@ description: "See how an AI employee transformed operations: zero reactive clien
 date: 2026-01-26
 readTime: 4 min read
 group_name: NVOCC & Freight Forwarder
-order: "3"
+order: "4"
 group: "1"
 ---
 
@@ -23,7 +23,7 @@ The silence of a container that missed its connection two days ago. That nobody 
 
 ---
 
-**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the involved company.
+**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real.
 
 ---
 

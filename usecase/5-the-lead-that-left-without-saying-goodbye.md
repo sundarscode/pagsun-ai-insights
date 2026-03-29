@@ -4,7 +4,7 @@ description: From a 4-day lag to same-day responses. See the 90-day results of d
 date: 2026-01-19
 readTime: 3 min read
 group_name: Corporate Service Provider
-order: "4"
+order: "5"
 group: "2"
 ---
 A Singapore Corporate Service Provider (CSP) with a steady stream of inbound enquiries.
@@ -27,7 +27,7 @@ The answers were uncomfortably similar.
 
 ---
 
-**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, emotions, and outcomes depicted here are real — shared with full written approval from the founder involved.
+**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, emotions, and outcomes depicted here are real.
 
 ---
 

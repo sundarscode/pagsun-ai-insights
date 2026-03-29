@@ -23,7 +23,7 @@ Then one prospect gave her an honest answer.
 
 ---
 
-**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real shared with full written approval from the business involved.
+**NDA Notice:** All client names, company details, and identifying information have been changed under signed NDA agreements. The situations, challenges, and outcomes depicted here are real.
 
 ---
 

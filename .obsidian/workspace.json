@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usecase/when-your-team-does-not-knows-where-the-cargo-is.md",
+                "file": "usecase/4-when-your-team-does-not-knows-where-the-cargo-is.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "when-your-team-does-not-knows-where-the-cargo-is"
+              "title": "4-when-your-team-does-not-knows-where-the-cargo-is"
+            }
+          },
+          {
+            "id": "b6ec841009bd44f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "usecase/3-the-day-i-realised-my-team-was-using-me-as-a-search-engine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-the-day-i-realised-my-team-was-using-me-as-a-search-engine"
+            }
+          },
+          {
+            "id": "8ad9d25534641526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "usecase/6-the-call-that-came-because-nobody-called-first.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-the-call-that-came-because-nobody-called-first"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,18 +226,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "aaf7c0abd8e0b92b",
+  "active": "8ad9d25534641526",
   "lastOpenFiles": [
-    "usecase/the-mistake-your-team-finds-when-it-is-too-late.md",
-    "usecase/the-penalty-nobody-saw-coming.md",
-    "usecase/when-your-team-does-not-knows-where-the-cargo-is.md",
-    "usecase/the-invoice-no-one-agreed-to.md",
-    "usecase/the-shipper-who-stopped-calling.md",
-    "usecase/the-lead-that-left-without-saying-goodbye.md",
-    "usecase/the-proposal-that-lost-on-clarity-not-price.md",
-    "usecase/when-one-person-holds-your-entire-business-hostage.md",
-    "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
+    "usecase/1-when-one-person-holds-your-entire-business-hostage.md",
+    "usecase/10-the-invoice-no-one-agreed-to.md",
+    "usecase/9-the-mistake-your-team-finds-when-it-is-too-late.md",
+    "usecase/8-the-penalty-nobody-saw-coming.md",
+    "usecase/7-the-shipper-who-stopped-calling.md",
+    "usecase/6-the-call-that-came-because-nobody-called-first.md",
+    "usecase/5-the-lead-that-left-without-saying-goodbye.md",
+    "usecase/4-when-your-team-does-not-knows-where-the-cargo-is.md",
+    "usecase/3-the-day-i-realised-my-team-was-using-me-as-a-search-engine.md",
+    "usecase/2-the-proposal-that-lost-on-clarity-not-price.md",
     "README.md",
+    "insights/the-meeting-where-you-nodded-along-ends-here-ai-decoded-1-of-8.md",
     "2026-02-18.md",
     "usecase",
     "insights/this-one-decision-shapes-everything-else-and-most-get-it-wrong-ai-decoded-5-of-8.md",
@@ -226,8 +256,6 @@
     "insights/ai-decoded-06-operations.md",
     "insights/ai-decoded-05-application-patterns.md",
     "insights/ai-decoded-04-techniques.md",
-    "insights/ai-decoded-03-models.md",
-    "insights/ai-decoded-02-foundation.md",
     "layer1-foundation-diagram.html"
   ]
 }
